@@ -1,0 +1,59 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ishaq Iradukunda</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #333;
+      text-align: center;
+    }
+    header {
+      background: #4a90e2;
+      color: white;
+      padding: 2rem 1rem;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin-top: 0.5rem;
+    }
+    main {
+      padding: 2rem;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    footer {
+      background: #333;
+      color: white;
+      padding: 1rem;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Ishaq Iradukunda</h1>
+    <p>Welcome to my personal webpage</p>
+  </header>  <main>
+    <section>
+      <h2>About Me</h2>
+      <p>Hello! My name is Ishaq Iradukunda. This is my personal space online where I can share my projects, ideas, and interests.</p>
+    </section><section>
+  <h2>Contact</h2>
+  <p>You can reach me at: <a href="mailto:yourname@email.com">yourname@email.com</a></p>
+</section>
+
+  </main>  <footer>
+    <p>&copy; 2025 Ishaq Iradukunda. All rights reserved.</p>
+  </footer>
+</body>
+</html>
