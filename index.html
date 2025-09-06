@@ -1,27 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Weather Dashboard</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Weather Dashboard</title>
 </head>
 <body>
-  <nav>
-    <div class="logo">Weather Dashboard</div>
-  </nav>
-  <main>
-    <section class="search-section">
-      <input type="text" id="city-input" placeholder="Enter city name...">
-      <button id="search-btn">Search</button>
-    </section>
-    <section id="weather-section" class="weather-section">
-      <!-- Weather information will be displayed here -->
-    </section>
-  </main>
-  <footer>
-    &copy; 2025 Weather Dashboard
-  </footer>
-  <script src="app.js"></script>
+    <div id="app">
+        <h1>Weather Dashboard</h1>
+        <div id="weather-info"></div>
+        <button id="unit-toggle">Toggle Units</button>
+    </div>
+    <script src="app.js"></script>
 </body>
 </html>
